@@ -1,2 +1,2 @@
 # nodejs-express
-Simple nodejs with express
+example using nodejs with express 
